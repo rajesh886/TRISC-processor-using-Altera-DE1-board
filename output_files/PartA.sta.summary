@@ -1,0 +1,213 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'lab9final:inst1|controller:inst2|state.E'
+Slack : -7.571
+TNS   : -56.642
+
+Type  : Slow Model Setup 'Clock'
+Slack : -4.397
+TNS   : -56.385
+
+Type  : Slow Model Setup 'PIPO:inst25|74175:inst|13'
+Slack : -1.592
+TNS   : -4.247
+
+Type  : Slow Model Setup 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : -0.592
+TNS   : -0.592
+
+Type  : Slow Model Setup 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : -0.532
+TNS   : -0.934
+
+Type  : Slow Model Setup 'lab9final:inst1|controller:inst2|state.F'
+Slack : -0.390
+TNS   : -0.390
+
+Type  : Slow Model Hold 'PIPO:inst25|74175:inst|13'
+Slack : -4.601
+TNS   : -4.601
+
+Type  : Slow Model Hold 'Clock'
+Slack : -4.400
+TNS   : -30.410
+
+Type  : Slow Model Hold 'lab9final:inst1|controller:inst2|state.E'
+Slack : -3.396
+TNS   : -3.396
+
+Type  : Slow Model Hold 'lab9final:inst1|controller:inst2|state.F'
+Slack : -2.014
+TNS   : -3.337
+
+Type  : Slow Model Hold 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : -1.631
+TNS   : -1.631
+
+Type  : Slow Model Hold 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow Model Recovery 'lab9final:inst1|controller:inst2|state.E'
+Slack : -7.859
+TNS   : -26.669
+
+Type  : Slow Model Recovery 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : -3.932
+TNS   : -9.760
+
+Type  : Slow Model Recovery 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : -3.775
+TNS   : -6.174
+
+Type  : Slow Model Recovery 'lab9final:inst1|controller:inst2|state.F'
+Slack : -3.255
+TNS   : -10.930
+
+Type  : Slow Model Removal 'lab9final:inst1|controller:inst2|state.F'
+Slack : 2.442
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : 2.745
+TNS   : 0.000
+
+Type  : Slow Model Removal 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : 3.151
+TNS   : 0.000
+
+Type  : Slow Model Removal 'lab9final:inst1|controller:inst2|state.E'
+Slack : 5.230
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Clock'
+Slack : -2.064
+TNS   : -143.341
+
+Type  : Slow Model Minimum Pulse Width 'lab9final:inst1|controller:inst2|state.E'
+Slack : -0.611
+TNS   : -9.776
+
+Type  : Slow Model Minimum Pulse Width 'lab9final:inst1|controller:inst2|state.F'
+Slack : -0.611
+TNS   : -4.888
+
+Type  : Slow Model Minimum Pulse Width 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : -0.611
+TNS   : -3.666
+
+Type  : Slow Model Minimum Pulse Width 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : -0.611
+TNS   : -2.444
+
+Type  : Slow Model Minimum Pulse Width 'PIPO:inst25|74175:inst|13'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'lab9final:inst1|controller:inst2|state.E'
+Slack : -3.351
+TNS   : -20.213
+
+Type  : Fast Model Setup 'Clock'
+Slack : -1.558
+TNS   : -22.753
+
+Type  : Fast Model Setup 'PIPO:inst25|74175:inst|13'
+Slack : -0.164
+TNS   : -0.176
+
+Type  : Fast Model Setup 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Fast Model Setup 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : 0.069
+TNS   : 0.000
+
+Type  : Fast Model Setup 'lab9final:inst1|controller:inst2|state.F'
+Slack : 0.072
+TNS   : 0.000
+
+Type  : Fast Model Hold 'PIPO:inst25|74175:inst|13'
+Slack : -2.217
+TNS   : -2.217
+
+Type  : Fast Model Hold 'Clock'
+Slack : -2.098
+TNS   : -15.023
+
+Type  : Fast Model Hold 'lab9final:inst1|controller:inst2|state.E'
+Slack : -1.786
+TNS   : -1.786
+
+Type  : Fast Model Hold 'lab9final:inst1|controller:inst2|state.F'
+Slack : -0.845
+TNS   : -1.449
+
+Type  : Fast Model Hold 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : -0.703
+TNS   : -0.703
+
+Type  : Fast Model Hold 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Fast Model Recovery 'lab9final:inst1|controller:inst2|state.E'
+Slack : -3.609
+TNS   : -11.122
+
+Type  : Fast Model Recovery 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : -1.632
+TNS   : -4.061
+
+Type  : Fast Model Recovery 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : -1.539
+TNS   : -2.518
+
+Type  : Fast Model Recovery 'lab9final:inst1|controller:inst2|state.F'
+Slack : -1.061
+TNS   : -3.436
+
+Type  : Fast Model Removal 'lab9final:inst1|controller:inst2|state.F'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : 1.729
+TNS   : 0.000
+
+Type  : Fast Model Removal 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : 1.859
+TNS   : 0.000
+
+Type  : Fast Model Removal 'lab9final:inst1|controller:inst2|state.E'
+Slack : 2.721
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Clock'
+Slack : -2.000
+TNS   : -137.222
+
+Type  : Fast Model Minimum Pulse Width 'lab9final:inst1|controller:inst2|state.E'
+Slack : -0.500
+TNS   : -8.000
+
+Type  : Fast Model Minimum Pulse Width 'lab9final:inst1|controller:inst2|state.F'
+Slack : -0.500
+TNS   : -4.000
+
+Type  : Fast Model Minimum Pulse Width 'Accumulator:inst15|BC:inst|74193:inst|26'
+Slack : -0.500
+TNS   : -3.000
+
+Type  : Fast Model Minimum Pulse Width 'Accumulator:inst15|BC:inst|74193:inst|25'
+Slack : -0.500
+TNS   : -2.000
+
+Type  : Fast Model Minimum Pulse Width 'PIPO:inst25|74175:inst|13'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------
